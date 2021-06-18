@@ -33,11 +33,7 @@ li {
   border: 1px solid #d4d4d4;
   border-radius: 5px;
 }
-.emoji {
-  font-size: 30px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
+
 .temperature {
   font-size: 40px;
   font-weight: 400;
