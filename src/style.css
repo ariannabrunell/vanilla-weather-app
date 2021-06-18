@@ -45,6 +45,14 @@ li {
   font-size: 14px;
   top: -20px;
 }
+.active {
+  color: grey;
+  cursor: default;
+}
+.active:hover {
+  text-decoration: none;
+}
+
 .weatherData {
   position: relative;
   bottom: -100px;
