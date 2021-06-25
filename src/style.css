@@ -57,3 +57,19 @@ li {
   position: relative;
   bottom: -100px;
 }
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+  color: grey;
+}
+
+.forecast-date {
+  font-size: 16px;
+}
+.forecast-temperatures {
+  font-size: 14px;
+}
+.forecast-high {
+  font-weight: bolder;
+}
